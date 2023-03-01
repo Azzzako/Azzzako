@@ -16,7 +16,7 @@
 <p align="center">Tengo la ambicion de participar en proyectos importantes tanto individuales como grupales, pero se que antes de eso debe de existir todo un proceso es por eso que voy aprendiendo del camino y de la gente que me voy encontrando en el, pero porsupuesto que esa misma ambicion me obliga a dar lo mejor de mi en cada linea de codigo.💪</p>
 
 
-<div align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b></div>
+<div align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><h1> Skills</h1></div>
 <br>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
