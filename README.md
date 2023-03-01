@@ -15,6 +15,10 @@ Hasta hace algunos años yo solia estudiar Ciencias Sociales, pero cuando la opo
 
 Tengo la ambicion de participar en proyectos importantes tanto individuales como grupales, pero se que antes de eso debe de existir todo un proceso es por eso que voy aprendiendo del camino y de la gente que me voy encontrando en el, pero porsupuesto que esa misma ambicion me obliga a dar lo mejor de mi en cada linea de codigo.💪
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<br>
 
 - **Languages**:
     
@@ -29,5 +33,6 @@ Tengo la ambicion de participar en proyectos importantes tanto individuales como
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+   
 
 <br>
