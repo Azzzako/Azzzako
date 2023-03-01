@@ -46,6 +46,6 @@ Tengo la ambicion de participar en proyectos importantes tanto individuales como
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
 	 <a style="margin-left: 10px;" target="_blank" href="https://twitter.com/AzakRG">
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-	 <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/100rabhch">
+	 <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/azak.cth">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
 	 </div>
