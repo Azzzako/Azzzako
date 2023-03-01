@@ -7,7 +7,7 @@
 
 <h1 align="center">Este soy yo... 😏</h1>
 
-<p align="center">Hola! Mi nombre es Asael y soy Front End Developer.💻🖌️
+<p align="center">Hola! Mi nombre es Asael y soy Fullstack Web Developer, con mucha, pero mucha preferencia al Front End.💻🖌️
 
 <p align="center">Hasta hace algunos años yo solia estudiar Ciencias Sociales, pero cuando la oportunidad de cumplir tu sueño se presenta, no puedes dejarla pasar. Es por eso que ahora no paro de codear y de adentrarme mas al mundo del IT y de la increible gama de posibilidades en el Desarrollo Front End. </p>
 
