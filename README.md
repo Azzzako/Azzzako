@@ -5,13 +5,13 @@
 </p>
 
 
-<h1 align="center">Este soy yo... </h1>
+<h1 align="center">Este soy yo... 😏</h1>
 
 <p align="center">Hola! Mi nombre es Asael y soy Front End Developer.💻🖌️
 
 <p align="center">Hasta hace algunos años yo solia estudiar Ciencias Sociales, pero cuando la oportunidad de cumplir tu sueño se presenta, no puedes dejarla pasar. Es por eso que ahora no paro de codear y de adentrarme mas al mundo del IT y de la increible gama de posibilidades en el Desarrollo Front End. </p>
 
-<h1 align="center"> Hacia donde voy... ? </h1>
+<h1 align="center"> Hacia donde voy... ? 🛸</h1>
 
 <p align="center">Tengo la ambicion de participar en proyectos importantes tanto individuales como grupales, pero se que antes de eso debe de existir todo un proceso es por eso que voy aprendiendo del camino y de la gente que me voy encontrando en el, pero porsupuesto que esa misma ambicion me obliga a dar lo mejor de mi en cada linea de codigo.💪</p>
 
@@ -32,11 +32,11 @@
 <br>
 
 
-<h3> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+<h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
 
- <div class="icons-social" style="margin-left: 10px;">
+ <div align="center" class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/asael-hernandez-29a279241/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
 	 <a style="margin-left: 10px;" target="_blank" href="https://twitter.com/AzakRG">
