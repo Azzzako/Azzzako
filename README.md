@@ -41,8 +41,11 @@ Tengo la ambicion de participar en proyectos importantes tanto individuales como
 
 <p align="center">
 
- <div align="center"  class="icons-social" style="margin-left: 10px;">
+ <div class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/asael-hernandez-29a279241/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-	 <a style="margin-left: 10px;" target="_blank" href="https://twitter.com/https://twitter.com/AzakRG">
+	 <a style="margin-left: 10px;" target="_blank" href="https://twitter.com/AzakRG">
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
+	 <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/100rabhch">
+			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+	 </div>
