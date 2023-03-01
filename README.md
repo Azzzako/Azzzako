@@ -7,13 +7,13 @@
 
 # Este soy yo... 
 
-Hola! Mi nombre es Asael y soy Front End Developer.💻🖌️
+<p align="center">Hola! Mi nombre es Asael y soy Front End Developer.💻🖌️
 
-Hasta hace algunos años yo solia estudiar Ciencias Sociales, pero cuando la oportunidad de cumplir tu sueño se presenta, no puedes dejarla pasar. Es por eso que ahora no paro de codear y de adentrarme mas al mundo del IT y de la increible gama de posibilidades en el Desarrollo Front End. 
+Hasta hace algunos años yo solia estudiar Ciencias Sociales, pero cuando la oportunidad de cumplir tu sueño se presenta, no puedes dejarla pasar. Es por eso que ahora no paro de codear y de adentrarme mas al mundo del IT y de la increible gama de posibilidades en el Desarrollo Front End. </p>
 
 # Hacia donde voy... ?
 
-Tengo la ambicion de participar en proyectos importantes tanto individuales como grupales, pero se que antes de eso debe de existir todo un proceso es por eso que voy aprendiendo del camino y de la gente que me voy encontrando en el, pero porsupuesto que esa misma ambicion me obliga a dar lo mejor de mi en cada linea de codigo.💪
+<p align="center">Tengo la ambicion de participar en proyectos importantes tanto individuales como grupales, pero se que antes de eso debe de existir todo un proceso es por eso que voy aprendiendo del camino y de la gente que me voy encontrando en el, pero porsupuesto que esa misma ambicion me obliga a dar lo mejor de mi en cada linea de codigo.💪</p>
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
