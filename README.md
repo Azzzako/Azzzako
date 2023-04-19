@@ -48,3 +48,6 @@
 	 <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/azak.cth">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
 	 </div>
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
