@@ -53,8 +53,6 @@
 
 <div align="center" class="icons-social" style="margin-left: 10px;">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=azzzako)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azzzako)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
 
 </div>
